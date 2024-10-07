@@ -399,6 +399,8 @@
 .logo-box-one a {
     position: relative;
     display: inline-block;
+    height: 60px;
+    width: 180px;
 }
 
 .navbar-wrap {
